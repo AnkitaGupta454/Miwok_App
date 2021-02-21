@@ -16,7 +16,8 @@ With the help of this project I learned variety of new concepts like activity cy
 <img src="https://user-images.githubusercontent.com/69414725/108612857-47563f00-7412-11eb-929f-84252f56ce4c.png" width="300" height="500" />
 &nbsp;
 <img src="https://user-images.githubusercontent.com/69414725/108612860-5937e200-7412-11eb-9222-64d5cdd78cb2.png" width="300" height="500"/>
-<p/>
+&nbsp;
 <img src="https://user-images.githubusercontent.com/69414725/108612859-50471080-7412-11eb-98e3-f78f39bc0b91.png" width="300" height="500"/>
 &nbsp;
 <img src="https://user-images.githubusercontent.com/69414725/108612866-60f78680-7412-11eb-8388-a0181c0e0974.png" width="300" height="500"/>
+<p/>
